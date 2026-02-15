@@ -1,3 +1,0 @@
-pip show statsmodels
-pip install dash pandas plotly scikit-learn statsmodels
-python neuroqorex.py
